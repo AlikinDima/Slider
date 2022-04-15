@@ -16,7 +16,7 @@ If you have the opportunity to try my project and write a review/advice, please 
 ## GET START
 1. paste your page in prepared container this code
 
-        <div class="sliderOne">
+        <div class="slider">
             <div class="adslide-wrapper">
                 <ul class="adslide-list">
                     <li class="adslide__element"><div class="content"><h1>1 Slide</h1></div></li>
@@ -45,7 +45,7 @@ If you have the opportunity to try my project and write a review/advice, please 
 ### Additional parameters
 
 3. Setting:
-        new Slider(".sliderOne", 3, autoplay = false, dots = true, button = true);
+        new Slider(".slider", 3, autoplay = false, dots = true, button = true);
         
    * autoplay:  autoscroll elements,
    * dots:      view/hide dots,
