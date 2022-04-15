@@ -7,7 +7,9 @@ Slider 0.1v - simple pure javascript slider.
 I am a beginner developer, it is very important for me to have feedback about my code.
 If you have the opportunity to try my project and write a review/advice, please do so. It's important for me.
 
-## Install
+## INSTALL
+
+Сonnect to site:
 * include js file
 * include css file
  
@@ -44,6 +46,7 @@ If you have the opportunity to try my project and write a review/advice, please 
 
 3. Setting:
         new Slider(".sliderOne", 3, autoplay = false, dots = true, button = true);
+        
    * autoplay:  autoscroll elements,
    * dots:      view/hide dots,
    * button:    view/hide button;
