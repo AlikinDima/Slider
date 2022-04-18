@@ -14,7 +14,7 @@ If you have the opportunity to try my project and write a review/advice, please 
 * include css file
  
 ## GET START
-1. paste your page in prepared container this code
+1. paste this code on your page in the prepared container
 
         <div class="slider">
             <div class="adslide-wrapper">
